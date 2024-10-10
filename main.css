@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: 'SF Pro', sans-serif;
+    background-color: #F3F0EE;
+}
+
+.container {
+    width: 595px;
+    margin: auto;
+    padding: 20px;
+    color: #494847;
+    line-height: 1.5;
+}
+
+.name-title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #494847;
+    margin: 0;
+}
+
+.subtitle, .contact-link, .portfolio-link, .email {
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: #494847;
+}
+
+.contact-link a, .portfolio-link a {
+    color: #494847;
+    text-decoration: underline;
+}
+
+.experience-section, .education-section, .skills-section, .languages-section {
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 800;
+    color: #070707;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.job h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.job-dates {
+    font-size: 12px;
+    color: #494847;
+    margin-bottom: 8px;
+}
+
+p {
+    font-size: 12px;
+    color: #494847;
+}
+
+.email {
+    font-size: 12px;
+    color: #494847;
+    margin-top: 20px;
+}
